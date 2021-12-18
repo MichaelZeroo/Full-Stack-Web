@@ -1,0 +1,154 @@
+﻿@model IEnumerable<MVCManukauTech.Models.DB.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@*20180325 JPC Question 4-3 auto-suggest*@
+<form action="" method="get">
+    <div class="row">
+        <div class="col-sm-2">
+            Search Customers:
+        </div>
+
+        <div class="col-sm-10">
+            <input type="text" id="searchString" name="searchString" style="width:18em"
+                   autocomplete="off" onkeyup="XAjaxRequest(this.value);" autofocus />
+            <input id="searchButton" type="submit" value="Submit" />
+            <br />
+            <div id="autoSuggestContainer" style="position:absolute; visibility:hidden; z-index:10"></div>
+        </div>
+    </div>
+</form>
+
+<script type="text/javascript">
+    function XAjaxRequest(searchString)
+    {
+        if (searchString.length < 3) return;
+
+        var oeSuggestions = document.getElementById("autoSuggestContainer");
+        //clear the options before each query process
+        //Ref stackoverflow: https://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript
+        oeSuggestions.innerHTML = "";
+
+        var xmlhttp;
+        xmlhttp = new XMLHttpRequest();
+        var url = "/Customers/IndexAJAX?searchString=" + searchString;
+        xmlhttp.open("GET", url, false);
+        xmlhttp.send();
+
+        //20170823 JPC auto-suggest UI
+        var messageObject = JSON.parse(xmlhttp.responseText);
+
+        for (i = 0; i < messageObject.length; i++) {
+            oeSuggestions.innerHTML += "<input type='button' value='" + messageObject[i] + "' onclick='XSubmit(this.value);' style='width:16em;' /><br />";
+        }
+        oeSuggestions.style.visibility = "visible";
+        //oeSuggestions.style.left = "14em";
+        oeSuggestions.style.width = "24em";
+    }
+
+
+    function XSubmit(searchString) {
+        var oeSearchString = document.getElementById("searchString");
+        oeSearchString.value = searchString;
+        //try this active and commented-out
+        document.getElementById("searchButton").click();
+    }
+
+</script>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NameStyle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MiddleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Suffix)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SalesPerson)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            @*2019-04-04 JPC QUESTION THREE Removed header labels PasswordHash, PasswordSalt and Rowguid*@
+
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameStyle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MiddleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Suffix)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CompanyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SalesPerson)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            @*2019-04-04 JPC QUESTION THREE Removed data fields PasswordHash, PasswordSalt and Rowguid*@
+
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDate)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CustomerId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

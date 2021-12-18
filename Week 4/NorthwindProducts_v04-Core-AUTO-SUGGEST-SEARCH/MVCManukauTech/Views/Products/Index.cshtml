@@ -1,0 +1,149 @@
+﻿@model IEnumerable<MVCManukauTech.Models.DB.Products>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+@* CLIENT SIDE added near top of Views/Products/Index.cshtml *@
+
+@*20170314 JPC CLIENT SIDE add search as mini-form - note the use of GET for a small input
+    into a page that has multiple purposes*@
+@*20180816 JPC note that the browser adds its own "autocomplete" suggestions.
+    Fix with autocomplete="off" - Ref: https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion*@
+<form id="searchForm" action="/Products/Index" method="get" autocomplete="off">
+    <p>
+        Search Products:
+        <div>
+            <input type="text" id="searchString" name="searchString"
+                autocomplete="off" onkeyup="XAjaxRequest(this.value);" 
+                style="width: 180px"/>
+            <input type="submit" value="Submit" />
+            <br />
+            <div id="autoSuggestContainer" style="position:absolute;display:none;z-index:100;">
+                @*<textarea id="xResponse"></textarea>*@
+
+            </div>
+        </div>
+
+    </p>
+</form>
+
+<script type="text/javascript">
+    function XAjaxRequest(searchString) {
+        if (searchString.length < 3) {
+            //on deleting input to enter something else, needs clear
+            document.getElementById("autoSuggestContainer").innerHTML = "";
+            return;
+        }
+        //alert("testing searchString=" + searchString);
+        var xmlhttp;
+        xmlhttp = new XMLHttpRequest();
+        var url = "/Products/IndexAJAX?searchString=" + searchString;
+        xmlhttp.open("GET", url, false);
+        xmlhttp.send();
+        document.getElementById("autoSuggestContainer").style.display = "block";
+        var messageObject = JSON.parse(xmlhttp.responseText);
+
+        for (var i = 0; i < messageObject.length; i++) {
+            //object-oriented approach to generating on-screen elements with an example result on the next line
+            // <input type="button" value="Chef Anton's Gumbo" onclick="ddocument.getElementById('searchString').value = this.value; document.getElementById('searchForm').submit();" style="width: 180px" />
+            var b = document.createElement("INPUT");
+            var t = document.createAttribute("type");
+            t.value = "button";
+            b.setAttributeNode(t);
+            var v = document.createAttribute("value");
+            v.value = messageObject[i].ProductName;
+            b.setAttributeNode(v);
+            var o = document.createAttribute("onclick");
+            o.value = "document.getElementById('searchString').value = this.value; document.getElementById('searchForm').submit();";
+            b.setAttributeNode(o);
+            var s = document.createAttribute("style");
+            s.value = "width: 180px";
+            b.setAttributeNode(s);
+            document.getElementById("autoSuggestContainer").appendChild(b);
+            //end button
+            //start <br />
+            var br = document.createElement("BR");
+            document.getElementById("autoSuggestContainer").appendChild(br);
+        }
+    }
+</script>
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuantityPerUnit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsInStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsOnOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReorderLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discontinued)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Supplier)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QuantityPerUnit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitsInStock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitsOnOrder)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReorderLevel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Discontinued)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Supplier.CompanyName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

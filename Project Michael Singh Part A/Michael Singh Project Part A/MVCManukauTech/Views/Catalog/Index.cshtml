@@ -1,0 +1,98 @@
+﻿@model IEnumerable<MVCManukauTech.ViewModels.CatalogViewModel>
+
+@{
+    //Are we showing all the products or only one category?
+    if (ViewBag.CategoryName == null)
+    {
+        ViewBag.Title = "Travel Items Catalog";
+    }
+    else
+    {
+        ViewBag.Title = "Catalog - " + ViewBag.CategoryName;
+    }
+}
+
+@*MLS : 13/4/2019 : Numbered Pagination using jsquery*@
+<script>
+    $(document).ready(function () {
+        $('#table1').after('<div id="nav"></div>');
+        var rowsShown = 7;
+        var rowsTotal = $('#table1 tbody tr').length;
+        var numPages = rowsTotal / rowsShown;
+        for (i = 0; i < numPages; i++) {
+            var pageNum = i + 1;
+            $('#nav').append('<a href="#" rel="' + i + '">' + pageNum + '</a> ');
+        }
+        $('#table1 tbody tr').hide();
+        $('#table1 tbody tr').slice(0, rowsShown).show();
+        $('#nav a:first').addClass('active');
+        $('#nav a').bind('click', function () {
+
+            $('#nav a').removeClass('active');
+            $(this).addClass('active');
+            var currPage = $(this).attr('rel');
+            var startItem = currPage * rowsShown;
+            var endItem = startItem + rowsShown;
+            $('#table1 tbody tr').css('opacity', '0.0').hide().slice(startItem, endItem).
+                css('display', 'table-row').animate({ opacity: 1 }, 300);
+        });
+    });
+</script>
+
+
+<h2>@ViewBag.Title</h2>
+
+<table id="table1" class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Image
+        </th>
+        <th>
+            Unit Cost
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Category
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.Raw(item.Name)
+            </td>
+            @*Images from our products*@
+            <td>
+                <img src="~/Images/products/@item.ImageFileName" style="width:100px" />
+            </td>
+            <td style="text-align: right">
+                @item.UnitCost
+            </td>
+            <td>
+                @Html.Raw(item.Description)
+            </td>
+            <td>
+                @item.CategoryName
+            </td>
+            <td>
+                <a href="~/OrderDetails/ShoppingCart?ProductId=@item.ProductId"><button>Add&nbsp;to&nbsp;Cart</button></a>
+            </td>
+            <td>
+                <a href="~/Catalog/Details?ProductId=@item.ProductId"><button>Details</button></a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+
+

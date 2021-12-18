@@ -1,0 +1,78 @@
+﻿@model IEnumerable<MVCManukauTech.ViewModels.OrderDetailsExtendedViewModel>
+
+@{
+    ViewData["Title"] = "OrderDetailsExtended";
+}
+
+<h2>OrderDetailsExtended</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                @*Note the need to make the QueryKey invisible as it could be confusing to users*@
+                <th>
+                    QueryKey
+                </th>
+                <th>
+                    OrderId
+                </th>
+                <th>
+                    ProductId
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Unit Price
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Discount
+                </th>
+                <th>
+                    ExtendedPrice
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @*Note the need to make the QueryKey invisible as it could be confusing to users*@
+                @item.QueryKey
+            </td>
+            <td>
+                @*An interesting error is leave the razor at-symbol out of this code giving literal displays*@
+                @item.OrderID
+            </td>
+            <td>
+                @item.ProductID
+            </td>
+            <td>
+                @item.ProductName
+            </td>
+            <td>
+                @item.UnitPrice
+            </td>
+            <td>
+                @item.Quantity
+            </td>
+            <td>
+                @item.Discount
+            </td>
+            <td>
+                @item.ExtendedPrice
+            </td>
+            <td>
+                @*Delete scaffolded links because they are not valid for a readonly query report*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,96 @@
+﻿@model IEnumerable<MVCManukauTech.Models.DB.Player>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Initials
+            </th>
+            <th>
+                LastName
+            </th>
+            <th>
+                DateOfBirth
+            </th>
+            <th>
+                Gender
+            </th>
+            <th>
+                YearJoined
+            </th>
+            <th>
+                AddressHouseNo
+            </th>
+            <th>
+                AddressStreet
+            </th>
+            <th>
+                Postcode
+            </th>
+            <th>
+                Locality
+            </th>
+            <th>
+                Phone
+            </th>
+            <th>
+                LeagueNo
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Initials
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                 @item.DateOfBirth
+            </td>
+            <td>
+                @item.Gender
+            </td>
+            <td>
+                @item.YearJoined
+            </td>
+            <td>
+                @item.AddressHouseNo
+            </td>
+            <td>
+                @item.AddressStreet
+            </td>
+            <td>
+                @item.Postcode
+            </td>
+            <td>
+                @item.Locality
+            </td>
+            <td>
+                @item.Phone
+            </td>
+            <td>
+                @item.LeagueNo
+            </td>
+            <td>
+                
+                <a href="Players/Edit?id=@item.PlayerId">Edit</a>
+                <a href="Players/Details?id=@item.PlayerId">Details</a>
+                <a href="Players/Delete?id=@item.PlayerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

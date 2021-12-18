@@ -1,0 +1,83 @@
+﻿@model IEnumerable<MVCManukauTech.ViewModels.ReportResult>
+
+@{
+    ViewData["Title"] = "ReportResult";
+}
+
+<h1>ReportResult</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Initials)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearJoined)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Won)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TeamId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Initials)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfBirth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.YearJoined)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Won)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TeamId)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+@{ decimal totalWon = Convert.ToDecimal(ViewData["totalWon"]);
+    string totalWonDisplay = Math.Round(totalWon, 2).ToString();
+}
+<p style="text-align:right">Total Won = @totalWonDisplay </p>
+
+@{ decimal totalLost = Convert.ToDecimal(ViewData["totalLost"]);
+    string totalLostDisplay = Math.Round(totalLost, 2).ToString();
+}
+<p style="text-align:right">Total Lost = @totalLostDisplay </p>

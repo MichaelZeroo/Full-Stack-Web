@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<!--
+    <p>
+        NOTE to developers.<br />
+        This app follows the convention of this page &quot;default.aspx&quot; as a blank page<br />
+        which redirects to &quot;entry.aspx&quot; as the &quot;real&quot; startup page.<br />
+        The reason for this is to leave the option open for designers to use this page
+        as a &quot;splash&quot; page.<br />
+    </p>
+    -->
+<h3>
+    XSpy Teaching and Learning Example
+</h3>
+
+
+<form action="~/Catalog/Index" method="GET">
+    <p>
+        Catalog Search:
+        <input type="text" id="SearchString" name="SearchString" />
+        <input type="submit" value="Submit" />
+
+
+
+    </p>
+</form>
+
+
+<p>
+    &quot;XSpy&quot; is a sample web app on the ASP.NET MVC5.2 framework with a demo shopping cart and demo of some student-friendly ideas on getting started with MVC.<br />
+    <br />
+    &quot;XSpy&quot; uses sample data from &quot;IBuySpy&quot;, the &quot;Microsoft E-Commerce Starter Kit&quot; (2003).<br />
+    Most sample data is therefore  © Copyright 2003 Microsoft Corporation.<br />
+    <br />
+    &quot;XSpy&quot; coding has been done by us as an all new sample web app.<br />
+    <br/>
+    Code assembled and commented as this presentation is © Copyright 2014 Manukau Institute of Technology.<br />
+    Freely-shared software, copyright asserted to protect that status.<br />
+    <br />
+    This code is published with the intention of being useful, <br />
+    but NOTE that it comes with no warranty, express or implied.<br />
+    <br />
+    You can download the original &quot;IBuySpy&quot; from:<br />
+    <a href="http://www.asp.net/downloads/archived/starter-kits/commerce/">http://www.asp.net/downloads/archived/starter-kits/commerce/</a>
+</p>
+<p>
+    Our approach:
+</p>
+<ul>
+    <li>
+        Sticking close to the essentials of what makes MVC5.<br/>
+        This keeps &quot;XSpy&quot; close to common standards like SQL and HTML5 - which means low use
+        of custom elements like "HtmlHelpers".<br/>
+        &nbsp;
+    </li>
+    <li>Shopping Cart with row by row database updates via AJAX<br />
+        &nbsp;
+    </li>
+    <li>
+        Database table &quot;OrderDetails&quot; gains column "LineNumbers".&nbsp;<br />
+        Added to reflect our experience of programming for Shipping and Warehousing systems<br />
+        where Item Line Numbers are a common point of reference for workers.<br />
+        &nbsp;
+    </li>
+</ul>

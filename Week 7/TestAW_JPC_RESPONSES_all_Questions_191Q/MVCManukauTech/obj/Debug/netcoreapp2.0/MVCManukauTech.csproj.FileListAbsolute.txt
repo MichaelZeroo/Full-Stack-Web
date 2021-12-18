@@ -1,0 +1,108 @@
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW-PracticeTest_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Core\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_COMPLETE_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_upto-Q8_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week06_Responses\TestAW_JPC_RESPONSES_QU-1-9_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+D:\Working_191Q\502.632_Full-Stack_Activities\Week06_Responses\TestAW_JPC_RESPONSES_with_ANGULAR-BOOTSTRAP_183Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 7\TestAW_JPC_RESPONSES_all_Questions_191Q\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb

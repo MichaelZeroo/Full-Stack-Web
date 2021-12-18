@@ -1,0 +1,111 @@
+﻿
+
+@{
+    ViewData["Title"] = "ReportPenaltiesAngular";
+}
+
+
+@section StyleAngularJS {
+    <style>
+        table, th, td {
+            border: 1px solid grey;
+            border-collapse: collapse;
+        }
+
+        /*20180904 JPC needs more padding and needs align right for money values*/
+        th, td {
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: right;
+        }
+
+        table tr:nth-child(odd) {
+            background-color: #f1f1f1;
+        }
+
+        table tr:nth-child(even) {
+            background-color: #ffffff;
+        }
+    </style>
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+
+
+<h2>ReportPenaltiesAngular</h2>
+
+<div ng-app="myApp" ng-controller="reportCtrl">
+
+    <table>
+        <tr>
+            
+            <th>Initials</th>
+            <th>Last Name</th>
+            <th>Phone</th>
+            <th>Locality</th>
+            <th>Date Of Payment</th>
+            <th>Amount</th>
+
+        </tr>
+        <tr ng-repeat="item in report" style="vertical-align:top">
+            
+            <td>{{ item.Initials}}</td>
+            <td>{{ item.LastName}}</td>
+            <td>{{ item.Phone}}</td>
+            <td>{{ item.Locality}}</td>
+            <td>{{ item.DateOfPayment}}</td>
+            <td>{{ item.Amount}}</td>
+
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><b>TOTAL:</b></td>
+            <td><b>{{total}}</b></td>
+        </tr>
+
+    </table>
+
+</div>
+
+<script>
+    var _$http;
+    var _$scope;
+    var app = angular.module('myApp', []);
+    app.controller('reportCtrl', xConstructor);
+
+    function xConstructor($scope, $http) {
+        _$http = $http;
+        _$scope = $scope;
+        $http.get("/Players/ReportPenaltiesAngularData").then(xReceive);
+    }
+
+    function xReceive(reportObject) {
+        
+        var amountTotal = 0;
+        for (var i = 0; i < reportObject.data.length; i++) {
+            
+            var amount = reportObject.data[i].Amount;
+            reportObject.data[i].Amount = parseFloat(amount).toFixed(2).toString();
+            
+            var total = reportObject.data[i].Total;
+            amountTotal += total;
+            reportObject.data[i].Total = parseFloat(total).toFixed(2).toString();
+        }
+        _$scope.report = reportObject.data;
+        _$scope.total = parseFloat(amountTotal).toFixed(2).toString();
+        //alert("The total is: " + profitTotal);
+    }
+</script>
+
+
+@{
+    ViewData["Title"] = "ReportPenaltiesAngular";
+}

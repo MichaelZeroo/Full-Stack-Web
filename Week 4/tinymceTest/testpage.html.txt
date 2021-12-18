@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="js/tinymce/tinymce.min.js"></script>
+  <script>tinymce.init({ selector:"textarea", plugins:"link lists table" });</script>
+</head>
+<body>
+  <textarea>
+      Cat Ipsum. Chase ball of string eat plants, meow, and throw up because 
+      I ate plants going to catch the red dot today going to catch the red dot 
+      today. I could pee on this if I had the energy. Chew iPad power cord 
+      steal the warm chair right after you get up for purr for no reason 
+      leave hair everywhere, decide to want nothing to do with my owner today.
+  </textarea>
+</body>
+</html>

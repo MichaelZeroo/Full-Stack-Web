@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MVCManukauTech.ViewModel.ReportProd02>
+
+<h1>ReportProd02</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StandardCost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Profit)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Color)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Size)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Weight)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StandardCost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ListPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Profit)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+@{ decimal grandTotal = Convert.ToDecimal(ViewData["ProfitTotal"]);
+    string grandTotalDisplay = Math.Round(grandTotal, 2).ToString();
+}
+<p style="text-align:right">Total Profit = @grandTotalDisplay </p>

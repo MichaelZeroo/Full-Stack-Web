@@ -1,0 +1,55 @@
+﻿@model IEnumerable<MVCManukauTech.ViewModels.ProductSummaryViewModel>
+
+@{
+    ViewData["Title"] = "TenMostExpensiveProducts";
+}
+
+<h2>TenMostExpensiveProducts</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    ProductId
+                </th>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Category Name
+                </th>
+                <th>
+                    Unit Price
+                </th>
+                <th>
+                    Qty/Unit
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.ProductId
+            </td>
+            <td>
+                @item.ProductName
+            </td>
+            <td>
+                @item.CategoryName
+            </td>
+            <td>
+                @item.UnitPrice
+            </td>
+            <td>
+                @item.QuantityPerUnit
+            </td>
+            <td>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

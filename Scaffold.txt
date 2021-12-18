@@ -1,0 +1,1 @@
+Server=citizen.manukautech.info,6303;Database=F191_Michael_PMusic;UID=F191_Michael;PWD=fBit$45040;Encrypt=true;TrustServerCertificate=true;;MultipleActiveResultSets=true

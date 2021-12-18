@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MVCManukauTech.Models.DB.Publisher>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                PubName
+            </th>
+            <th>
+                City
+            </th>
+            <th>
+                State
+            </th>
+            <th>
+                Country
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.PubName
+            </td>
+            <td>
+                @item.City
+            </td>
+            <td>
+                @item.State
+            </td>
+            <td>
+                @item.Country
+            </td>
+            <td>
+                <a href="Publishers/Edit?id=@item.PubId">Edit</a>
+                <a href="Publishers/Details?id=@item.PubId">Details</a>
+                <a href="Publishers/Delete?id=@item.PubId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

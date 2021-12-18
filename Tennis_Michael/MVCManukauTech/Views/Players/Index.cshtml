@@ -1,0 +1,146 @@
+﻿@model IEnumerable<MVCManukauTech.Models.DB.Player>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form action="" method="get">
+    <div class="row">
+        <div class="col-sm-2">
+            Search Players:
+        </div>
+
+        <div class="col-sm-10">
+            <input type="text" id="searchString" name="searchString" style="width:18em"
+                   autocomplete="off" onkeyup="XAjaxRequest(this.value);" autofocus />
+            <input id="searchButton" type="submit" value="Submit" />
+            <br />
+            <div id="autoSuggestContainer" style="position:absolute; visibility:hidden; z-index:10"></div>
+        </div>
+    </div>
+</form>
+
+
+<script type="text/javascript">
+    function XAjaxRequest(searchString) {
+        if (searchString.length < 3) return;
+
+        var oeSuggestions = document.getElementById("autoSuggestContainer");
+        //clear the options before each query process
+        oeSuggestions.innerHTML = "";
+
+        var xmlhttp;
+        xmlhttp = new XMLHttpRequest();
+        var url = "/Players/IndexAJAX?searchString=" + searchString;
+        xmlhttp.open("GET", url, false);
+        xmlhttp.send();
+
+        //auto-suggest UI
+        var messageObject = JSON.parse(xmlhttp.responseText);
+
+        for (i = 0; i < messageObject.length; i++) {
+            oeSuggestions.innerHTML += "<input type='button' value='" + messageObject[i] + "' onclick='XSubmit(this.value);' style='width:16em;' /><br />";
+        }
+        oeSuggestions.style.visibility = "visible";
+        oeSuggestions.style.width = "24em";
+    }
+
+
+    function XSubmit(searchString) {
+        var oeSearchString = document.getElementById("searchString");
+        oeSearchString.value = searchString;
+        //try this active and commented-out
+        document.getElementById("searchButton").click();
+    }
+
+</script>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Initials)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.YearJoined)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddressHouseNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddressStreet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Postcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Locality)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LeagueNo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Initials)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearJoined)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddressHouseNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddressStreet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Postcode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Locality)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeagueNo)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PlayerId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PlayerId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PlayerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,132 @@
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\Dev\ASPNET_CORE2_Test01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+I:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week03_Working\MVCNorthwindProducts01\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojResolveAssemblyReference.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+F:\XTemp_181Q182Q\502.632_Full-Stack_Web\Week04_Working\MVCNorthwindProducts_v03-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week05_Core\NorthwindProducts_v04-Core-with-better-Keys\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-COMPLETED\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+E:\XTemp_183Q184Q\502.632_Full-Stack_Web\Week04_RESPONSES\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\TEMP\NorthwindProducts_v04-Core-RESPONSE-ADD_SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.deps.json
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.json
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\bin\Debug\netcoreapp2.0\MVCManukauTech.pdb
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.AssemblyInfo.cs
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.dll
+C:\Users\Michael\Documents\Course\2019 Quarter 1\Full Stack Web\Week 4\NorthwindProducts_v04-Core-AUTO-SUGGEST-SEARCH\MVCManukauTech\obj\Debug\netcoreapp2.0\MVCManukauTech.pdb

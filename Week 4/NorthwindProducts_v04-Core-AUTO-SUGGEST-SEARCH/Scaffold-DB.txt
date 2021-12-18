@@ -1,0 +1,3 @@
+$ sign is a reserved character, needs powershell backtick as escape!
+
+Scaffold-DbContext "Server=citizen.manukautech.info,6307;Database=Northwind;UID=fullstack01;PWD=inVoice[22];Encrypt=true;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/DB
